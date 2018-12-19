@@ -1,4 +1,4 @@
-curve fitting in python
+Curve fitting in python
 
 Python version: 3
 To execute, run fitting.py and write the following command in the shell:
@@ -15,4 +15,4 @@ plot  = False | means that the figure wont be displayed
 
 The function can be executed as many times you want.
 
-@Victor
+@VictorAlulema
